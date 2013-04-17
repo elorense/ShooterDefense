@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>crosshair.png</Source>
+      <Name>crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\crosshair.xnb</Output>
+      <Time>2013-01-31T20:36:26.751664-08:00</Time>
+    </Item>
+    <Item>
+      <Source>target.png</Source>
+      <Name>target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\target.xnb</Output>
+      <Time>2013-02-01T10:39:51.9049502-08:00</Time>
+    </Item>
+    <Item>
+      <Source>exclaimation.png</Source>
+      <Name>exclaimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\exclaimation.xnb</Output>
+      <Time>2013-02-04T19:28:23.7856646-08:00</Time>
+    </Item>
+    <Item>
+      <Source>treasure.png</Source>
+      <Name>treasure</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\treasure.xnb</Output>
+      <Time>2013-02-04T21:24:36.2882348-08:00</Time>
+    </Item>
+    <Item>
+      <Source>minerAnimation.png</Source>
+      <Name>minerAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\minerAnimation.xnb</Output>
+      <Time>2013-02-05T00:16:47.6454048-08:00</Time>
+    </Item>
+    <Item>
+      <Source>minerAnimFlipped.png</Source>
+      <Name>minerAnimFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\minerAnimFlipped.xnb</Output>
+      <Time>2013-02-05T00:32:58.1183607-08:00</Time>
+    </Item>
+    <Item>
+      <Source>basicYeti.png</Source>
+      <Name>basicYeti</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\basicYeti.xnb</Output>
+      <Time>2013-02-05T23:08:49.9738786-08:00</Time>
+    </Item>
+    <Item>
+      <Source>basicYetiFlip.png</Source>
+      <Name>basicYetiFlip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\basicYetiFlip.xnb</Output>
+      <Time>2013-02-05T23:21:25.106875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier12.spritefont</Source>
+      <Name>Courier12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\Courier12.xnb</Output>
+      <Time>2013-02-06T11:03:43.7698036-08:00</Time>
+    </Item>
+    <Item>
+      <Source>life.png</Source>
+      <Name>life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\life.xnb</Output>
+      <Time>2013-02-11T09:47:29.7803688-08:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSong.mp3</Source>
+      <Name>menuSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\menuSong.xnb</Output>
+      <Extra>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\menuSong.wma</Extra>
+      <Time>2013-02-20T10:47:16.035432-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverSong.mp3</Source>
+      <Name>gameOverSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\gameOverSong.xnb</Output>
+      <Extra>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\gameOverSong.wma</Extra>
+      <Time>2013-02-24T18:54:41.1882816-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.wav</Source>
+      <Name>shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2013-02-25T15:23:15.004602-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SuperYeti.png</Source>
+      <Name>SuperYeti</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\SuperYeti.xnb</Output>
+      <Time>2013-02-25T20:42:58.4865272-08:00</Time>
+    </Item>
+    <Item>
+      <Source>superYetiFlip.png</Source>
+      <Name>superYetiFlip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\superYetiFlip.xnb</Output>
+      <Time>2013-02-25T20:42:40.5819906-08:00</Time>
+    </Item>
+    <Item>
+      <Source>crossHair2.png</Source>
+      <Name>crossHair2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\crossHair2.xnb</Output>
+      <Time>2013-02-25T22:00:31.1840186-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SnowBackground.png</Source>
+      <Name>SnowBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\SnowBackground.xnb</Output>
+      <Time>2013-02-25T23:17:44.5580989-08:00</Time>
+    </Item>
+    <Item>
+      <Source>bullets.png</Source>
+      <Name>bullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\bullets.xnb</Output>
+      <Time>2013-02-26T01:49:31.0130191-08:00</Time>
+    </Item>
+    <Item>
+      <Source>turrent.png</Source>
+      <Name>turrent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\turrent.xnb</Output>
+      <Time>2013-02-26T01:50:27.0120436-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gun.png</Source>
+      <Name>gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\gun.xnb</Output>
+      <Time>2013-02-26T03:06:22.7896544-08:00</Time>
+    </Item>
+    <Item>
+      <Source>supergun.png</Source>
+      <Name>supergun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\supergun.xnb</Output>
+      <Time>2013-02-26T03:06:13.7378228-08:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2013-02-26T03:11:14.8644378-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gunChoice.png</Source>
+      <Name>gunChoice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\gunChoice.xnb</Output>
+      <Time>2013-02-26T03:26:56.4915457-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gunChoice2.png</Source>
+      <Name>gunChoice2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\gunChoice2.xnb</Output>
+      <Time>2013-02-26T03:26:56.4925466-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shot2.wav</Source>
+      <Name>shot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\shot2.xnb</Output>
+      <Time>2013-02-26T04:02:40.5190838-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-02-26T04:27:00.4200424-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\explode.xnb</Output>
+      <Time>2013-02-26T05:03:26.5213273-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Edric\Documents\Visual Studio 2010\Projects\Duk2\Duk2\Duk2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-28T17:43:35.1260498-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

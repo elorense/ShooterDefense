@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duk2", "Duk2\Duk2\Duk2.csproj", "{E399B22D-2D5B-4BAE-BA05-EC1097734290}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Duk2Content", "Duk2\Duk2Content\Duk2Content.contentproj", "{A051C84A-29E6-4AE1-8E08-FB5E50A700EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E399B22D-2D5B-4BAE-BA05-EC1097734290}.Debug|x86.ActiveCfg = Debug|x86
+		{E399B22D-2D5B-4BAE-BA05-EC1097734290}.Debug|x86.Build.0 = Debug|x86
+		{E399B22D-2D5B-4BAE-BA05-EC1097734290}.Release|x86.ActiveCfg = Release|x86
+		{E399B22D-2D5B-4BAE-BA05-EC1097734290}.Release|x86.Build.0 = Release|x86
+		{A051C84A-29E6-4AE1-8E08-FB5E50A700EE}.Debug|x86.ActiveCfg = Debug|x86
+		{A051C84A-29E6-4AE1-8E08-FB5E50A700EE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
