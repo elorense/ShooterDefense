@@ -4,6 +4,7 @@ This is a Tower defense style shooter game that I made using XNA Visual Studio i
 The goal of this game is to shoot down all the monsters that are trying to take the treasure from you.
 There is a two player mode. 
 
+Source files are in: ShooterDefense/Duk2/Duk2/Duk2
 
 Weapons:
 Basic Weapon: 10dmg
